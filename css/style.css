@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(255, 175, 157);
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 60vw;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px auto;
+    border: 10px double black;
+    padding: 20px;
+}
+
+li {
+    font-size: x-large;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+    width: 65%;
+}
